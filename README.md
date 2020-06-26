@@ -11,3 +11,4 @@ I will need Local Storage to save the activity
 
 My demo looks like this:
 
+![](assets/demo.png)
